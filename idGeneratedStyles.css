@@ -77,7 +77,9 @@ td.CellOverride-2 {
 	border-top-style:solid;
 	border-top-width:0px;
 }
-
+p.ParaOverride-1 {
+	text-align:center;
+}
 span.CharOverride-1 {
 	font-style:normal;
 	font-weight:bold;
@@ -171,12 +173,4 @@ tr._idGenTableRowColumn-26 {
 }
 div._idGenObjectStyleOverride-1 {
 	border-width:0px;
-}
-
-div#_idContainer005 p {
-	margin-top: 2em;
-}
-
-div#_idContainer008 {
-	margin: 2em 0;
 }
